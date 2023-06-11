@@ -1,4 +1,4 @@
-# Actuvate_windows_server_2022
+# Activate Windows Server 2022
 
 Open powerrshell and run administrator
 ### Find Available Target Editions
